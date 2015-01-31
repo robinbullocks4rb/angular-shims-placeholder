@@ -49,5 +49,6 @@
     "angularjs",
     "placeholders",
     "polyfill"
-  ]
+  ],
+  "main": "index.js"
 }
